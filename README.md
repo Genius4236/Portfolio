@@ -10,10 +10,6 @@ Let me introduce myself, I’m MD KHIZER. On this occasion, I’d like to share 
 - Framer Motion  
 - Lucide  
 - Material UI  
-- SweetAlert2  
-
-**Website Link:**  
-<!-- [https://www.eki.my.id/](https://www.eki.my.id/)   -->
 
 We would appreciate it if you decide to use this project. Please include credit when using it. Thank you! 🙏  
 
@@ -35,7 +31,7 @@ Ensure that you have already installed:
 1. **Download this project:**  
 
    ```bash  
-   git clone https://github.com/EkiZR/Portofolio_V5.git  
+   git clone https://github.com/genius4236/portfolio 
    ```  
 
 2. **Install all dependencies:**  
@@ -103,10 +99,7 @@ To configure Firebase for this project, follow these steps:
    - Set the rules to `true`.  
 
 5. **Adjust the Collection Structure:**  
-   - Set up the collections as shown in the following images:  
-
-   ![Collection Structure Example 1](https://github.com/user-attachments/assets/38580122-08a4-4499-a8fd-0f253652a239)  
-   ![Collection Structure Example 2](https://github.com/user-attachments/assets/d563d7ad-f1ab-46ff-8185-640dcebd0363)  
+   - Set up the collections:  
 
 6. **Update `firebase.js` and `firebase-comment.js` Files:**  
    - Replace the `firebaseConfig` content with your Firebase configuration.  

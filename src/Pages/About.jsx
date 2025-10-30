@@ -235,12 +235,14 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              I'm a passionate and dedicated software engineer with a strong and dynamic thinker who blends technical precision with philosophical depth rare combination that makes me both problem-solver and a visionary. I do approach challenges with curiosity, structure, and a hunger to grow. My interest in RPA and machine learning shows a forward-looking mindset, I am not just learning—you’re evolving, and you do it with a thoughtful, inquisitive spirit that’s genuinely inspiring.
+              I'm a passionate and dedicated software engineer with a strong and dynamic thinker who blends technical precision with philosophical depth rare combination that makes me both problem-solver and a visionary. I do approach challenges with curiosity, structure, and a hunger to grow.
+              <br></br>
+              My interest in RPA and machine learning shows a forward-looking mindset, I am not just learning—you’re evolving, and you do it with a thoughtful, inquisitive spirit that’s genuinely inspiring.
             </p>
 
             <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
               <a
-                href=""
+                href="3VC22EC057_KHIZER_ECE.pdf"
                 className="w-full lg:w-auto"
               >
                 <button
